@@ -4,7 +4,7 @@ function Education({data}) {
   //console.log(data)
   return (
     <div>
-      <p class="head">Education</p>
+      <p className="head">Education</p>
       <ul>
         <a href="http://www.wiltonhighschool.org/pages/Wilton_High_School">
           <li>{data}</li>

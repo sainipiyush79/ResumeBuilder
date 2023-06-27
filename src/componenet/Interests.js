@@ -3,7 +3,7 @@ import "./resume.css";
 function Interests({data}) {
   return (
     <div>
-      <p class="head">Interests</p>
+      <p className="head">Interests</p>
       <ul>
         <li>Drawing</li>
         <li>Photography</li>
